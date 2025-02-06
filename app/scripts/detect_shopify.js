@@ -32,6 +32,7 @@ if (n_shopify > 0) {
     unshop_box.style.display = "flow";
     unshop_box.style.top = "30px"
     unshop_box.style.right = "30px"
+    unshop_box.style.fontFamily = "Arial, Helvetica, sans-serif;"
 
     // what's in the box
     const unshop_image = document.createElement("img");
