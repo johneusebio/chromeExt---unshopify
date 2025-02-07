@@ -5,9 +5,13 @@ const shopifysrc_ls = document.querySelectorAll("[src*='shopify']");
 
 const n_shopify = shopifyid_ls.length + shopifysrc_ls.length; // + shopifyhref_ls.length;
 
-console.log(n_shopify); //sanity check
+// console.log(n_shopify); //sanity check
 
 if (n_shopify > 0) {
+    if (window.location.href.includes("https://github.com/johneusebio/chromeExt---unshopify")) {
+        throw "main github page"
+    }
+
     const text1 = "This site uses Shopify.";
     const text2 = "Please consider using an alternative.";
     const text3 = "We found <b>" + n_shopify + "</b> Shopify elements on this page.";
