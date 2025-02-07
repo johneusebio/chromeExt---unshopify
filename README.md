@@ -23,6 +23,12 @@ Note that Unshopify does not block any sites or purchases. It merely lets you kn
 | :----------------------------: |
 |   Example screenshot (RC 1)    |
 
+
+
+![image-20250207090554994](README.assets/image-20250207090554994.png)
+
+Click the "About us" link in the popup window to return to this page and check for updates.
+
 ## Why Shopify?
 
 Despite being a Canadian company, Shopify executives like Tobias Lütke, Daniel Debow, and Kaz Nejatian [have repeatedly defended Trump's economic attack on our country](https://nypost.com/2025/02/02/us-news/shopify-ceo-defends-trump-tariff-demands-slams-trudeau/) and downplayed the calls for annexation. Canada is not without our own tech bro oligarchs, and it seems like ours are just as undemocratic and treacherous as those to the South. And they're collaborating with each other in a Project 2025-style attempt to exploit us for even more wealth, and are using the [Conservative party and Pierre Poilievre](https://breachmedia.ca/canada-far-right-tech-billionaires-pierre-poilievre/) to do it. The Logic has a fantastic [article](https://thelogic.co/news/the-big-read/canada-tech-pierre-poilievre/?lt=1) about this, or you can watch the coverage of it from independent Canadian journalist [Rachel Gilmore](https://youtu.be/9SUZLC0QoIs).
