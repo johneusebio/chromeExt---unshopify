@@ -9,7 +9,8 @@
     ],
     
     "action": {
-        "default_title": "UnShopify"
+        "default_title": "UnShopify",
+        "default_popup": "popup.html"
     },
 
     "icons": {

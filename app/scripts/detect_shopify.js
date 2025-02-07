@@ -8,6 +8,7 @@ const n_shopify = shopifyid_ls.length + shopifysrc_ls.length; // + shopifyhref_l
 // console.log(n_shopify); //sanity check
 
 if (n_shopify > 0) {
+    // ignore if on the main github page
     if (window.location.href.includes("https://github.com/johneusebio/chromeExt---unshopify")) {
         throw "main github page"
     }
