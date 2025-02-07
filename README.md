@@ -9,9 +9,9 @@
 
 # Our Mission
 
-| <img src="README.assets/unshopify-600.png" style="zoom: 50%;" /> |
-| :----------------------------------------------------------: |
-|         Say "no" to traitors. And skip the "sorry."          |
+|  ![test](README.assets/unshopify-300.png)   |
+| :-----------------------------------------: |
+| Say "no" to traitors. And skip the "sorry." |
 
 Canada's sovereignty has been threatened by US President Donald Trump, who seeks to annex us and absorb us as a US state. He's using economic coercion to force our hand. This extension aims to help us resist by using the only power we have these oligarchs actually care about: our money.
 
