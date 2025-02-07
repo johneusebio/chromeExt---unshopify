@@ -1,27 +1,26 @@
+@font-face {
+    font-family: "BebasNeue Regular";
+    src: url("fonts/bebas_neue/BebasNeue-Regular.otf");
+}
+
 html, body {
     min-width: 300px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-style: italic;
-    text-align: center;
+    font-family: "BebasNeue Regular";
+    font-size: 42pt;
+    background-color: "red";
 }
 
 p {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: medium;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
 
-.warning_text {
-    text-align: right;
-}
-
-.warning_img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0%;
-    margin-bottom: 0%;
-    width: 50%;
+a {
+    font-size: 10pt;
 }
