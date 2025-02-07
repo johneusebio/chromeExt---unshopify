@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [Our Mission](#Our Mission)
-  - [Why Shopify](#Why Shopify)
-- [Should I not purchase from any site that uses Shopify?]([Should I not purchase from any site that uses Shopify?])
+- [Our Mission](#Our-Mission)
+  - [Why Shopify](#Why-Shopify)
+- [Should I not purchase from any site that uses Shopify?]([Should-I-not-purchase-from-any-site-that-uses-Shopify?])
 - [Installation]([Installation])
 
 # Our Mission
