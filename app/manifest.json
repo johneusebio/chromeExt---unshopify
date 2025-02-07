@@ -19,6 +19,11 @@
         "128": "images/unshopify-128.png" 
     },
 
+    "background": {
+        "service_worker": "scripts/service_worker.js",
+        "type": "module"
+    },
+
     "content_scripts": [
         {
             "js": ["scripts/detect_shopify.js"],
